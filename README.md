@@ -1,4 +1,5 @@
 Aim:
+
 	The rise of online platforms has changed how people share movie opinions. IMDb's user-generated reviews can be analyzed using NLP, sentiment analysis, and emotion detection to understand user sentiments and feelings. Multilingual support and advanced machine learning models are used for thorough analysis. The study also examines user behavior patterns and presents findings through visualizations. The results provide valuable insights for filmmakers, marketers, and viewers, contributing to more informed decision-making in the film industry.
 
 Requirements:

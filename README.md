@@ -1,5 +1,4 @@
 Aim:
-
 	The rise of online platforms has changed how people share movie opinions. IMDb's user-generated reviews can be analyzed using NLP, sentiment analysis, and emotion detection to understand user sentiments and feelings. Multilingual support and advanced machine learning models are used for thorough analysis. The study also examines user behavior patterns and presents findings through visualizations. The results provide valuable insights for filmmakers, marketers, and viewers, contributing to more informed decision-making in the film industry.
 
 Requirements:
@@ -10,6 +9,7 @@ Requirements:
 5.	High-Speed Network/ WIFI Dongle
 
 Algorithm:
+
 •	Data Collection
 o	Step 1.1: Collect IMDb reviews data using web scraping or API access.
 o	Step 1.2: Store the collected data in a structured format (e.g., CSV, database).
